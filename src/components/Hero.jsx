@@ -1,6 +1,5 @@
 import React from 'react'
-import {AppBar, Box, Toolbar} from "@mui/material";
-import HeroButton from "./HeroButton.jsx";
+import {AppBar, Toolbar} from "@mui/material";
 import DesktopNav from "./DesktopNav.jsx";
 import MobileNav from "./MobileNav.jsx";
 import LogoNav from "./LogoNav.jsx";

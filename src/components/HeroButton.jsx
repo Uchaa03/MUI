@@ -12,6 +12,7 @@ const HeroButton = ({children, sx}) => {
                 borderRadius: '0.5rem',
                 ...sx //Overwrite styles in components
             }}
+            onClick={() => {}}
         >
             {children}
         </Button>
